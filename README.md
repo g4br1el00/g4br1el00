@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/h3yb1el/h3yb1el/blob/main/image.svg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/h3yb1el/Gabriel-Readme/8063db834572bd1fa45afff3e6e3a9a4a4b7059d/image.svg" height="175px"/></a>
 
 <h1 align="center">
 	Hi there! I am
