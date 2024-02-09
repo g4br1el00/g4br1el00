@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: **gabrielaffonsoazevedo0@gmail.com**
 
-- 🎉 Fun Facts: **`🎮 VideoGames`/`🎶 Music`/`🎟️ Movies`/`✈️ Travels`/`🍃 Nature`/`💻 Programming`**
+- 🎉 Fun Facts: **`🎮 Games`/`🎶 Music`/`🥊 Sports`/`✈️ Travels`/`🍃 Nature`/`💻 Programming`**
 
 </div>
 
