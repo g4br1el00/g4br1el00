@@ -82,8 +82,8 @@
 </a>
 <a href="https://github.com/h3yb1el">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Gabriel+Affonso+Azevedo's+Languages&layout=donut&hide_border=true&bg_color=00000000">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Gabriel+Affonso+Azevedo's+Languages&layout=donut&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Favorite+Languages&layout=donut&hide_border=true&bg_color=00000000">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Favorite+Languages&layout=donut&hide_border=true&theme=default">
 </picture>
 </a>
 </p>
