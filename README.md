@@ -6,8 +6,8 @@
 </h1>
 </p>
 
-<h3 align="center">🖌️ Welcome to my page!
-<br>🌿 I'm FullStack developer from São Paulo - Brazil.<br>🎯 I have a passion for programming and tecnology!<br></h3>
+<h3 align="center">🖌️ | Welcome to my page!
+<br>🌿 | I'm FullStack developer from São Paulo - Brazil.<br>🎯 | I have a passion for programming and tecnology!<br></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
