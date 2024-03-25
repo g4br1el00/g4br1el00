@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/h3yb1el/Gabriel-Readme/8063db834572bd1fa45afff3e6e3a9a4a4b7059d/image.svg" height="175px"/></a>
 
 <h1 align="center">
-	Hi there! I am
-                <br><b><a target="_blank" href="#">< Gabriel /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
+	Olá! Sou o
+                <br><b><a target="_blank" href="#">< Gabriel Azevedo /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
 </h1>
 </p>
 
-<h3 align="center">🖌️・Welcome to my page!
-<br>🌿・I'm FullStack developer from São Paulo - Brazil.<br>🎯・I have a passion for programming and tecnology!<br></h3>
+<h3 align="center">🖌️・Bem-vindo ao meu perfil!
+<br>🌿・Assistente de suporte de TI em São Paulo - Brasil.<br>🎯・"A ciência de hoje é a tecnologia de amanhã."<br></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
@@ -15,23 +15,23 @@
   <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🌀 About Me
+## 🌀 Sobre Mim:
 
-- 💼 I’m currently working on: **[Gabriel-Portfolio](https://github.com/h3yb1el/Gabriel-Portfolio).**
+- 💼 Atualmente estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
-- 💻 Read more about my projects on: **[Gabriel-Portfolio](h3yb1el.github.io).**
+- 💻 Leia mais sobre meus projetos em: **[GA Portfolio](https://g4bri1el0_.github.io).**
 
-- 📚 I’m currently learning: **Front-end development with `React.js` and `Typescript`, trying to get my first experience as a developer.**
+- 📚 Atualmente estou aprendendo sobre: **Desenvolvimento Front-end com `React.js` e `Typescript`, aperfeiçoando minhas habilidades!**
 
-- 💬 Ask me about anything: **[Here](https://github.com/h3yb1el/h3yb1el/issues), i love knowledge and learning new things.**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4bri1el0_/g4bri1el0_/issues), adoro conhecer e aprender coisas novas!**
 
-- 📫 How to reach me: **gabrielaffonsoazevedo0@gmail.com**
+- 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
-- 🎉 Fun Facts: **`🎮 Games` ‒ `🎶 Music` ‒ `🥊 Sports` ‒ `✈️ Travels` ‒ `🍃 Nature` ‒ `🖥️ Programming`**
+- 🎉 Fatos Divertidos! **`🎮 Games` ‒ `🎶 Música` ‒ `🥊 Esportes` ‒ `✈️ Viagens` ‒ `🍃 Natureza` ‒ `🖥️ Programação`**
 
 </div>
 
-## 🎒 My Skill Set:
+## 🎒 Minhas Habilidades:
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="auto" width="40">
@@ -48,17 +48,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="auto" width="40">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="auto" width="40">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="auto" width="40">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="auto" width="40">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="auto" width="40">
 
@@ -67,39 +59,37 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="auto" width="40">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="auto" width="40">
 </p>
 
-## 📊 My Github Stats
+## 📊 Meus Status GitHub:
 
 <p align="center">
           <a href="https://github.com/h3yb1el/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h3yb1el&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true">
-  <img alt="Stats"
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h3yb1el&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <img alt="Status"
 src="https://github-readme-stats.vercel.app/api?username=h3yb1el&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true">
 </picture>
 </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Most+Used+Languages&layout=donut&hide_border=false&theme=github_dark_dimmed">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Most+Used+Languages&layout=donut&hide_border=false&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Most+Used+Languages&layout=donut&hide_border=false&bg_color=00000000">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Most+Used+Languages&layout=donut&hide_border=false&theme=default">
 </picture>
 </a>
 </p>
 
-## 📱 Connect With Me
+## 📱 Redes Sociais:
 
 <p align="center">
-<a href="https://xtwitter.com/h3yb1el"target="blank">
+<a href="https://xtwitter.com/g4br1el0_"target="blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x.svg" height="auto" width="40">
-<img alt="h3yb1el" align="center"	src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a>
+<img alt="g4br1el0_" align="center"	src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a>
 </picture>
-<a href="https://linkedin.com/in/h3yb1el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="auto" width="40"/></a>
+<a href="https://linkedin.com/in/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="auto" width="40"/></a>
 <a
-href="https://fb.com/h3yb1el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a>
-<a href="https://instagram.com/h3yb1el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>
+href="https://fb.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a>
+<a href="https://instagram.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>
 <a href="https://www.youtube.com/c/h3yb1el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a>
 </p>
