@@ -9,11 +9,13 @@
 <h3 align="center">🖌️・Bem-vindo ao meu perfil!
 <br>🌿・Assistente de suporte de TI em São Paulo - Brasil.<br>🎯・"A ciência de hoje é a tecnologia de amanhã."<br></h3>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
   <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
 
 ## 🌀 Sobre Mim:
 
@@ -92,9 +94,4 @@ src="https://github-readme-stats.vercel.app/api?username=h3yb1el&theme=default&h
 href="https://fb.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
 <a href="https://instagram.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
 <a href="https://www.youtube.com/c/h3yb1el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a> 
-</p>
-<a
-href="https://fb.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a>  
-<a href="https://instagram.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
-<a href="https://www.youtube.com/c/h3yb1el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a>  
 </p>
