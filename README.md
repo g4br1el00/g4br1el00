@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/h3yb1el/Gabriel-Readme/8063db834572bd1fa45afff3e6e3a9a4a4b7059d/image.svg" height="175px"/></a>
 
 <h1 align="center">
-	Olá! Sou o
-                <br><b><a target="_blank" href="#">< Gabriel Azevedo /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
+	Olá! Sou o <br><b><a target="_blank" href="#">< Gabriel Azevedo /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
 </h1>
 </p>
 
-<h3 align="center">🖌️・Bem-vindo ao meu perfil!
-<br>🌿・Assistente de suporte de TI em São Paulo - Brasil.<br>🎯・"A ciência de hoje é a tecnologia de amanhã."<br></h3>
+<h3 align="center">🖌️・Bem-vindo ao meu perfil!<br>
+🌿・Assistente de suporte de TI em São Paulo - Brasil.<br>
+🎯・"A ciência de hoje é a tecnologia de amanhã."<br></h3>
 
 <p align="center">
 <picture>
