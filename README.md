@@ -68,14 +68,14 @@
 <p align="center">
         <a href="https://github.com/h3yb1el/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h3yb1el&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h3yb1el&custom_title=GitHub+Status&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=h3yb1el&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
+src="https://github-readme-stats.vercel.app/api?username=h3yb1el&custom_title=GitHub+Status&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
 </a> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Most+Used+Languages&layout=donut&hide_border=false&bg_color=00000000">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Most+Used+Languages&layout=donut&hide_border=false&theme=default">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Linguagens+Mais+Usadas&layout=donut&hide_border=false&bg_color=00000000">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&custom_title=Linguagens+Mais+Usadas&layout=donut&hide_border=false&theme=default">  
 </picture>  
 </a>
 </p>
