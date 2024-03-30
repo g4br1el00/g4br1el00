@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/h3yb1el/Gabriel-Readme/8063db834572bd1fa45afff3e6e3a9a4a4b7059d/image.svg" height="175px"/></a>
 
 <h1 align="center">
-	Olá! Sou o <br><b><a target="_blank" href="#">< Gabriel Azevedo /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
+	Olá! Sou o <br><b><a target="_blank" href="#">< Gabriel /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
 </h1>
 </p>
 
 <h3 align="center">🖌️・Bem-vindo ao meu perfil!<br>
-🌿・Assistente de suporte de TI em São Paulo - Brasil.<br>
-🎯・"A ciência de hoje é a tecnologia de amanhã."<br></h3>
+🌿・Assistente de Suporte de TI em São Paulo - Brasil.<br>
+🎯・"A ciência de Hoje é a Tecnologia de Amanhã."<br></h3>
 
 <p align="center">
 <picture>
@@ -21,15 +21,15 @@
 
 - 💼 Atualmente estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
-- 💻 Leia mais sobre meus projetos em: **[GA Portfolio](https://g4bri1el0_.github.io).**
+- 💻 Leia mais sobre meus projetos em: **[GA Portfolio](https://g4bri1el00.github.io).**
 
-- 📚 Atualmente estou aprendendo sobre: **Desenvolvimento Front-end com `React.js` e `Typescript`, aperfeiçoando minhas habilidades!**
+- 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
-- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4bri1el0_/g4bri1el0_/issues), adoro conhecer e aprender coisas novas!**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4bri1el00/g4bri1el00/issues), adoro conhecer e aprender coisas novas!**
 
 - 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
-- 🎉 Fatos Divertidos! **`🎮 Games` ‒ `🎶 Música` ‒ `🥊 Esportes` ‒ `✈️ Viagens` ‒ `🍃 Natureza` ‒ `🖥️ Programação`**
+- 🎉 Fatos Divertidos! **`🎮 Games` ‒ `🎶 Música` ‒ `🥊 Esportes` ‒ `✈️ Viagens` ‒ `🍃 Natureza` ‒ `🖥️ Tecnologia`**
 
 </div>
 
@@ -66,16 +66,16 @@
 ## 📊 Meus Status GitHub:
 
 <p align="center">
-        <a href="https://github.com/h3yb1el/github-readme-stats">          
+        <a href="https://github.com/g4bri1el00/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h3yb1el&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=g4bri1el00&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=h3yb1el&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
+src="https://github-readme-stats.vercel.app/api?username=g4bri1el00&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
 </a> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&layout=donut&hide_border=false&bg_color=00000000">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3yb1el&layout=donut&hide_border=false&theme=default">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bri1el00&layout=donut&hide_border=false&bg_color=00000000">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4br1el00&layout=donut&hide_border=false&theme=default">  
 </picture>  
 </a>
 </p>
