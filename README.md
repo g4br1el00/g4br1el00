@@ -64,7 +64,7 @@
 ## 📊 Meus Status GitHub:
 
 <p align="center">
-        <a href="https://github.com/g4bri1elO/github-readme-stats">          
+        <a href="https://github.com/g4br1elO/github-readme-stats">          
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=g4br1elO&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
