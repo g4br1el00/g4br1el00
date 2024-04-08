@@ -1,13 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/h3yb1el/Gabriel-Readme/8063db834572bd1fa45afff3e6e3a9a4a4b7059d/image.svg" height="175px"/></a>
 
-<h1 align="center">
-	Olá! Sou o <br><b><a target="_blank" href="#">< Gabriel /></a></b></br> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
+<h1 align="center">Olá! Sou o<br><b><a target="_blank" href="#">< Gabriel /></a></b></br>
+<img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
 </h1>
 </p>
 
-<h3 align="center">🖌️・Bem-vindo ao meu perfil!<br>
-🌿・Assistente de Suporte de TI em São Paulo - Brasil.<br>
-🎯・"A ciência de Hoje é a Tecnologia de Amanhã."<br></h3>
+<h3 align="center">🖌️・Bem-vindo ao meu perfil!<br>🌿・Assistente de Suporte de TI em São Paulo - Brasil.<br>🎯・"A ciência de Hoje é a Tecnologia de Amanhã."<br></h3>
 
 <p align="center">
 <picture>
@@ -21,7 +19,7 @@
 
 - 💼 Atualmente estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
-- 💻 Leia mais sobre meus projetos em: **[GA Portfolio](https://g4bri1el00.github.io).**
+- 💻 Leia mais sobre meus projetos em: **[GA Portfolio](https://g4bri1el01.github.io).**
 
 - 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
