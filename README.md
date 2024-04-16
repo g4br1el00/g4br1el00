@@ -19,11 +19,11 @@
 
 - 💼 Atualmente estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
-- 💻 Leia mais sobre meus projetos em: **[S0ftPortfolio](https://g4bri1elO.github.io).**
+- 💻 Leia mais sobre meus projetos em: **[S0ftPortfolio](https://g4bri1el01.github.io).**
 
 - 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
-- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4bri1elO/g4bri1elO/issues), adoro conhecer e aprender coisas novas!**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4bri1el01/g4bri1el01/issues), adoro conhecer e aprender coisas novas!**
 
 - 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
@@ -64,15 +64,15 @@
 ## 📊 Meus Status GitHub:
 
 <p align="center">
-        <a href="https://github.com/g4br1elO/github-readme-stats">          
+        <a href="https://github.com/g4br1el01/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=g4br1elO&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=g4br1el01&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=g4br1elO&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
+src="https://github-readme-stats.vercel.app/api?username=g4br1el01&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
 </a> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g4br1elO&layout=donut&hide_border=false&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g4br1el01&layout=donut&hide_border=false&bg_color=00000000">
   <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4br1elO&layout=donut&hide_border=false&theme=default">  
 </picture>  
 </a>
