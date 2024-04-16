@@ -23,7 +23,7 @@
 
 - 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
-- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/gabriel11xp/gabrie11xp/issues), adoro conhecer e aprender coisas novas!**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/gabriel11xp/gabriel11xp/issues), adoro conhecer e aprender coisas novas!**
 
 - 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
