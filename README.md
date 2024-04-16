@@ -81,15 +81,15 @@ src="https://github-readme-stats.vercel.app/api?username=g4br1el0xp&theme=defaul
 ## 📱 Redes Sociais:
 
 <p align="center">  
-<a href="https://xtwitter.com/g4br1el0xp"target="blank">  
+<a href="https://xtwitter.com/g4br1el0_"target="blank">  
 <picture>  
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40">  
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x.svg" height="auto" width="40">  
-<img alt="g4br1el0xp" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
+<img alt="g4br1el0_" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
 </picture> 
-<a href="https://linkedin.com/in/g4br1el0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="auto" width="40"/></a>  
+<a href="https://linkedin.com/in/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="auto" width="40"/></a>  
 <a
-href="https://fb.com/g4br1el0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
-<a href="https://instagram.com/g4br1el0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
-<a href="https://www.youtube.com/c/g4br1el0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a> 
+href="https://fb.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
+<a href="https://instagram.com/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
+<a href="https://www.youtube.com/c/g4br1el0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a> 
 </p>
