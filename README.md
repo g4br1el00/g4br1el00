@@ -19,11 +19,11 @@
 
 - 💼 Atualmente estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
-- 💻 Leia mais sobre meus projetos em: **[S0ftPortfolio](https://g4bri1el0xp.github.io).**
+- 💻 Leia mais sobre meus projetos em: **[S0ftPortfolio](https://g4br1el0xp.github.io).**
 
 - 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
-- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4bri1el0xp/g4bri1el0xp/issues), adoro conhecer e aprender coisas novas!**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/g4br1el0xp/g4br1el0xp/issues), adoro conhecer e aprender coisas novas!**
 
 - 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
