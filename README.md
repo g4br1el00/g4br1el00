@@ -23,7 +23,7 @@
 
 - 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
-- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/gabriel0xp/gabriel0xp/issues), adoro conhecer e aprender coisas novas!**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/gabriel11xp/gabrie11xp/issues), adoro conhecer e aprender coisas novas!**
 
 - 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
@@ -64,16 +64,16 @@
 ## 📊 Meus Status GitHub:
 
 <p align="center">
-        <a href="https://github.com/gabriel0xp/github-readme-stats">          
+        <a href="https://github.com/gabriel11xp/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabriel0xp&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabriel11xp&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=gabriel0xp&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
+src="https://github-readme-stats.vercel.app/api?username=gabriel11xp&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
 </a> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0xp&layout=donut&hide_border=false&bg_color=00000000">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0xp&layout=donut&hide_border=false&theme=default">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel11xp&layout=donut&hide_border=false&bg_color=00000000">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel11xp&layout=donut&hide_border=false&theme=default">  
 </picture>  
 </a>
 </p>
@@ -81,15 +81,15 @@ src="https://github-readme-stats.vercel.app/api?username=gabriel0xp&theme=defaul
 ## 📱 Redes Sociais:
 
 <p align="center">  
-<a href="https://x.com/gabriel0xp"target="blank">  
+<a href="https://x.com/gabriel11xp"target="blank">  
 <picture>  
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40">  
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x.svg" height="auto" width="40">  
-<img alt="gabriel0xp" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
+<img alt="gabriel11xp" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
 </picture> 
-<a href="https://linkedin.com/in/gabriel0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="auto" width="40"/></a>  
+<a href="https://linkedin.com/in/gabriel11xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="auto" width="40"/></a>  
 <a
-href="https://facebook.com/gabriel0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
-<a href="https://instagram.com/gabriel0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
-<a href="https://www.youtube.com/c/gabriel0xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a> 
+href="https://facebook.com/gabriel11xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
+<a href="https://instagram.com/gabriel11xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
+<a href="https://www.youtube.com/c/gabriel11xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a> 
 </p>
