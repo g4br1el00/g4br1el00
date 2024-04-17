@@ -62,13 +62,13 @@
 ## 📊 Meus Status GitHub:
 
 <p align="center">
-        <a href="https://github.com/gabrielazevedo0x/github-readme-stats">          
+  <a href="https://github.com/gabrielazevedo0x/github-readme-stats">          
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielazevedo0x&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
 src="https://github-readme-stats.vercel.app/api?username=gabrielazevedo0x&theme=default&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
-</a> 
+  </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazevedo0x&layout=donut&hide_border=false&bg_color=00000000">
   <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazevedo0x&layout=donut&hide_border=false&theme=default">  
