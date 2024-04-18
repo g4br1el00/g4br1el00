@@ -89,5 +89,5 @@ src="https://github-readme-stats.vercel.app/api?username=gabrielazevedo0x&theme=
 <a
 href="https://facebook.com/gabrielazevedo0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
 <a href="https://instagram.com/gabrielazevedo0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
-<a href="https://www.youtube.com/c/gabrielazevedo0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="auto" width="40"/></a> 
+<a href="mailto:gabrielaffonsoazevedo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="auto" width="40"/></a> 
 </p>
