@@ -5,7 +5,7 @@
 </h1>
 </p>
 
-<h3 align="center">🖌️・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte TI em São Paulo - Brasil.<br>🎯・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
+<h3 align="center">🖌️・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de TI em São Paulo - Brasil.<br>🎯・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
 
 <p align="center">
 <picture>
@@ -17,17 +17,17 @@
 
 ## 🌀 Sobre Mim:
 
-- 💼 Atualmente estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
+- 💼 Estou trabalhando em: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
 - 💻 Leia mais sobre meus projetos em: **[S0ftPortfolio](https://gabrielazevedo0x.github.io).**
 
-- 📚 Atualmente estou estudando sobre: **Enegenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
+- 📚 Atualmente estou estudando sobre: **Engenharia da Computação com `JavaScript` e `Python`, aperfeiçoando minhas habilidades!**
 
-- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/gabrielazevedo0x/gabrielazevedo0x/issues), adoro conhecer e aprender coisas novas!**
+- 💬 Me pergunte qualquer coisa: **[Aqui](https://github.com/gabr1el0x/gabr1el0x/issues), adoro conhecer e aprender coisas novas!**
 
 - 📫 Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
 
-- 🎉 Fatos Divertidos! **`🎮 Games` ‒ `🎶 Música` ‒ `🥊 Esportes` ‒ `✈️ Viagens` ‒ `🍃 Natureza` ‒ `🖥️ Tecnologia`**
+- 🎉 Fatos divertidos! **`🎮 Games` ‒ `🎶 Música` ‒ `🥊 Esportes` ‒ `✈️ Viagens` ‒ `🍃 Natureza` ‒ `🖥️ Tecnologia`**
 
 </div>
 
@@ -62,16 +62,16 @@
 ## 📊 Meus Status GitHub:
 
 <p align="center">
-  <a href="https://github.com/gabrielazevedo0x/github-readme-stats">          
+  <a href="https://github.com/gabr1el0x/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielazevedo0x&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1el0x&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=gabrielazevedo0x&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
+src="https://github-readme-stats.vercel.app/api?username=gabr1el0x&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
   </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazevedo0x&layout=donut&hide_border=true&bg_color=00000000">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazevedo0x&layout=donut&hide_border=true&theme=default">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1el0x&layout=donut&hide_border=true&bg_color=00000000">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1el0x&layout=donut&hide_border=true&theme=default">  
 </picture>  
 </a>
 </p>
@@ -79,15 +79,15 @@ src="https://github-readme-stats.vercel.app/api?username=gabrielazevedo0x&theme=
 ## 📱 Redes Sociais:
 
 <p align="center">  
-<a href="https://x.com/gabrielazevedo0x"target="blank">  
+<a href="https://x.com/gabr1el0x"target="blank">  
 <picture>  
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40">  
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x.svg" height="auto" width="40">  
-<img alt="gabrielazevedo0x" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
+<img alt="gabr1el0x" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
 </picture> 
-<a href="https://linkedin.com/in/gabrielazevedo0x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="auto" width="40"/></a>  
+<a href="https://linkedin.com/in/gabr1el0x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="auto" width="40"/></a>  
 <a
-href="https://facebook.com/gabrielazevedo0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
-<a href="https://instagram.com/gabrielazevedo0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
+href="https://facebook.com/gabr1el0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="auto" width="40"/></a> 
+<a href="https://instagram.com/gabr1el0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>  
 <a href="mailto:gabrielaffonsoazevedo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="auto" width="40"/></a> 
 </p>
