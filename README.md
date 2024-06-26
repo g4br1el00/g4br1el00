@@ -84,6 +84,7 @@ src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=de
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40">  
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x.svg" height="auto" width="40">  
 <img alt="gabr1elazevedo_" align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/x/x-light.svg" height="auto" width="40"></a> 
-</picture> 
+</picture>
+<a href="https://instagram.com/gabr1elazevedo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="auto" width="40"/></a>
 <a href="https://linkedin.com/in/gabr1elazevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="auto" width="40"/></a>  
 </p>
