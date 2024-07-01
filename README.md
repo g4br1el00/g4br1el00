@@ -34,13 +34,13 @@
 ## 🎒 Minhas Habilidades:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/21f59d85cd1e4cf50d10c9bb3474901b1cc189bb/public/logos/js/js.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/21f59d85cd1e4cf50d10c9bb3474901b1cc189bb/public/logos/html/html.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/21f59d85cd1e4cf50d10c9bb3474901b1cc189bb/public/logos/css/css.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/21f59d85cd1e4cf50d10c9bb3474901b1cc189bb/public/logos/reactjs/reactjs.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="auto" width="40">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="auto" width="40">
 
