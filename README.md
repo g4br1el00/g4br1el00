@@ -5,7 +5,7 @@
 </h1>
 </p>
 
-<h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
+<h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🍃・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
 
 <p align="center">
 <picture>
@@ -15,7 +15,7 @@
 </picture>
 </p>
 
-## 🌊 Sobre Mim:
+## 🎨 Sobre Mim:
 
 - 💼 Estou trabalhando na: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
