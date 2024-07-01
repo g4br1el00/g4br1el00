@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabr1elazevedo%2Fhit-counter&count_bg=%230079FF&title_bg=%23222222&icon=codeigniter.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabr1elazevedo%2Fhit-counter&count_bg=%230079FF&title_bg=%23333333&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/></a>
 </div>
 
 <h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
