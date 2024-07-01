@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/g4br1elO/g4br1elO/8063db834572bd1fa45afff3e6e3a9a4a4b7059d/image.svg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/vetores-premium/capa-e-banner-da-mesa-de-trabalho-com-gadget-vista-superior-da-mesa-de-trabalho-e-espaco-livre-para-texto_33771-1321.jpg?w=1060" height="175px"/></a>
 
 <h1 align="center">Olá! Sou o<br><b><a target="_blank" href="#">< Gabriel /></a></b></br>
 <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
