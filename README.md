@@ -6,12 +6,7 @@
 </p>
 
 <div align="center">
-<a 
-href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
-  <img 
-src="https://komarev.com/ghpvc/?username=gabr1elazevedo&style=for-the-badge&abbreviated=true" 
-alt="Visualizações"/>
-</a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230079FF&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Visualiza%C3%A7%C3%B5es&edge_flat=true"/></a>
 </div>
 
 <h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
