@@ -5,7 +5,7 @@
 </h1>
 </p>
 
-<h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br><br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
+<h3 align="center">🌊・Bem-Vindo ao Perfil!<br><br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br><br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
 
 <p align="center">
 <picture>
