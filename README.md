@@ -9,7 +9,7 @@
 <a 
 href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
   <img 
-src="https://komarev.com/ghpvc/?username=gabr1elazevedo&style=for-the-badge" 
+src="https://komarev.com/ghpvc/?username=gabr1elazevedo&style=for-the-badge&abbreviated=true" 
 alt="Visualizações"/>
 </a>
 </div>
