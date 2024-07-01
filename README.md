@@ -4,7 +4,13 @@
 <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
 </h1>
 </p>
-- ![](https://komarev.com/ghpvc/?username=gabr1elazevedo&styledfor-the-badge)
+
+<a 
+		href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+  <img 
+src="https://komarev.com/ghpvc/?username=gabr1elazevedo&style=for-the-badge" 
+alt="Profile Views"/>
+</a>
 
 <h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
 
