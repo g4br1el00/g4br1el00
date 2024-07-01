@@ -66,7 +66,7 @@ src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="auto" width="40">
 </p>
 
-## 📊 Meus Status GitHub:
+## 📊 Status GitHub:
 
 <p align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
