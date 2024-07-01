@@ -3,8 +3,8 @@
 <h1 align="center">Olá! Sou o<br><b><a target="_blank" href="#">< Gabriel /></a></b></br>
 <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
 </h1>
-![](https://komarev.com/ghpvc/?username=gabr1elazevedo&styledfor-the-badge)
 </p>
+- ![](https://komarev.com/ghpvc/?username=gabr1elazevedo&styledfor-the-badge)
 
 <h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
 
