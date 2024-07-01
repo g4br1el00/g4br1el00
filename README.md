@@ -64,13 +64,13 @@
 <p align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=github_dark">
   <img alt="Status"     
 src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true"> 
 </picture>         
   </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=donut&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=donut&hide_border=true&theme=github_dark">
   <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=donut&hide_border=true&theme=default">  
 </picture>  
 </a>
